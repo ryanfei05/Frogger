@@ -13,4 +13,8 @@ This is a simple Frogger clone based on the original popular Frogger Game. Built
 3. If you get hit by a car of fall into the river, you lose a life (3 Total)
 4. If you make it across to the end, you get a Win, restarting with faster cars & logs
 
+   ![image](https://github.com/ryanfei05/Frogger/assets/66645589/28cfa259-5498-4f0f-a7d1-498d0c927551)
+Enjoy
+
+
 
